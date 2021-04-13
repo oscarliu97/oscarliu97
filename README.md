@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Oscar and welcome to my GitHub! 👋
 
-<!--
-**oscarliu97/oscarliu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an end-to-end Data Science project in Deep Learning.
+- 🌱 I’m currently learning Deep Learning, more specifically, NLP.
+- 👯 I’m looking to collaborate on interesting data projects.
+- 🤔 I’m looking for help with getting into entry-level job.
+- 💬 Ask me about anything!
+- 📫 How to reach me: oscarliu97@outlook.com/ [LinkedIn](https://www.linkedin.com/in/oscarliujun/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love sports!
+
