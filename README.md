@@ -1,7 +1,6 @@
 ### Hi there, I am Oscar and welcome to my GitHub! 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an end-to-end Data Science project in Deep Learning.
 - 🌱 I’m currently learning Deep Learning, more specifically, NLP.
